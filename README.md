@@ -1,6 +1,4 @@
-# OS: FreeBSD-16-CURRENT amd64
-
-OS: Omarchy 1.5.0,1 on FreeBSD 16.0-CURRENT
+# OS: Omarchy 1.5.0,1 on FreeBSD 16.0-CURRENT
 
 https://github.com/jordanhubbard/daemonarchy
 
